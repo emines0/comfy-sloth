@@ -9,7 +9,7 @@ import {
   Error,
   Products,
   SingleProduct,
-  // AuthWrapper,
+  AuthWrapper,
   PrivateRoute,
 } from './pages'
 
